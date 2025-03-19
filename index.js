@@ -19,3 +19,4 @@ let max=Math.max(16,18,10,20)
 console.log(max)
 
 
+
